@@ -10,6 +10,8 @@ process:
   3. find the smallest
   4. swap(num at the anchor, smallest)
   5. move the anchor to the right
+time complexity:
+  O(n^2)
 '''
 input_arr = [1, 10, 5, 8, 7, 6, 4, 3, 2, 9]
 
