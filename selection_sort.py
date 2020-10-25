@@ -24,4 +24,5 @@ for i in range(len(input_arr)):
       input_arr[j] = input_arr[anchor]
       input_arr[anchor] = smallest
   anchor += 1
+  
 print(input_arr)
